@@ -8,5 +8,5 @@ info:
   contacts: 
     - "phone: +65 8730 2134"
     - "Mail: [info@APACWarriors.com](mailto:info@APACWarriors.com)"
-    - "Address: 111 SOMERSET, 111 SOMERSET ROAD, #08-10A, Postal 238164"
+    - "Address: HONG LEONG BUILDING, 16 RAFFLES QUAY, #33-03, Postal 048581"
 ---
