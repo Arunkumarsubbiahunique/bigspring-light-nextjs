@@ -17,7 +17,7 @@ feature:
   - name: "MFA as a Service"
     icon: "/images/oop.svg"
     content: " Fortify user access with multi-factor authentication and eliminate password fatigue."
-  - name: "IRaaS"
+  - name: "IR as a Service"
     icon: "/images/user-clock.svg"
     content: "Streamline incident response with automated workflows and expert guidance."
   - name: "MDM as a Service"
