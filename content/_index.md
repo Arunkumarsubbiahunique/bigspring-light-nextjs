@@ -35,8 +35,8 @@ feature:
 
 # services
 services:
-  - title: "It is the most advanced digital marketing and it company."
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+  - title: "It is the most advanced security suite as a service."
+    content: "Manage all your security needs from a single platform."
     images:
       - "/images/service-slide-1.png"
       - "/images/service-slide-2.png"
@@ -47,7 +47,7 @@ services:
       link: /contact
 
   - title: "It is a privately owned Information and cyber security company"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+    content: "Eliminate upfront infrastructure investments with our pay-as-you-go model."
     images: 
       - "/images/service-slide-1.png"
     button:
@@ -56,7 +56,7 @@ services:
       link: /contact
   
   - title: "It’s a team of experienced and skilled people with distributions"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+    content: "Leverage our team of security specialists for guidance and assistance."
     images:
       - "/images/service-slide-1.png"
       - "/images/service-slide-2.png"
@@ -67,7 +67,7 @@ services:
       link: /contact
 
   - title: "A company standing different from others"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+    content: "Gain deeper insights into your security posture with centralized reporting."
     images:
       - "/images/service-slide-1.png"
       - "/images/service-slide-2.png"
@@ -81,12 +81,12 @@ services:
 workflow: 
   title: "Experience the best workflow with us"
   image: "/images/banner.svg"
-  description: ""
+  description: "Leverage our team of security specialists for guidance and assistance."
 
 # call_to_action
 call_to_action:
   title: Ready to get started?
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur.
+  content: Let our experts help you build a customized security solution.
   image: '/images/cta.svg'
   button:
     enable: true
