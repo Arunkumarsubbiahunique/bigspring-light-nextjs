@@ -1,7 +1,7 @@
 ---
 banner:
-  title: Let us solve your critical website development challenges
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque <br/> totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus
+  title: Let us solve your critical business cyber risk challenges
+  content: Traditional security solutions are often complex, siloed, and reactive, leaving businesses vulnerable to ever-evolving threats. Let us help you achieve peace of mind with our powerful, integrated SaaS security suite.
   image: /images/banner-art.svg
   button:
     label: "Contact Us"
