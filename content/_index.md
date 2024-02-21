@@ -13,7 +13,7 @@ feature:
   features:
   - name: "Scope for Cybersecurity Exposure"
     icon: "/images/scope_green.svg"
-    content: "Our SaaS based AI Scoping tool will scope your organization’s “attack surface” — vulnerable entry points and assets — which extends beyond the focus of typical vulnerability management programs. Include not just traditional devices, apps and applications but also less tangible elements such as corporate social media accounts, online code repositories and integrated supply chain systems."
+    content: "Our SaaS based AI Scoping tool will scope your organization’s “attack surface” — vulnerable entry points and assets — which extends beyond the focus of typical vulnerability management programs."
   - name: "Assets and their risk profiles"
     icon: "/images/oop.svg"
     content: "Our SaaS based AI asset and risk profile tool corelated assets based on their nature to business risk. Which gives a headsup to the IT teams to focus on what is most critical and how does it impacts the business"
