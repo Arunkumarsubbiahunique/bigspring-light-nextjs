@@ -11,8 +11,8 @@ banner:
 feature: 
   title: Something You Need To Know
   features:
-  - name: "Code Analysis as a Service"
-    icon: "/images/code.svg"
+  - name: "Scope for Cybersecurity Exposure"
+    icon: "/images/scope.svg"
     content: "Dynamic Application Security Testing (DAST), Static Application Security Testing (SAST), and Interactive Application Security Testing (IAST) as a Service"
   - name: "MFA as a Service"
     icon: "/images/oop.svg"
