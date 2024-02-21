@@ -9,7 +9,7 @@ banner:
 
 # feature
 feature: 
-  title: Something You Need To Know
+  title: "Shifting Perspective: Using the Hacker Mindset to Strengthen Security"
   features:
   - name: "Scope for Cybersecurity Exposure"
     icon: "/images/scope_green.svg"
