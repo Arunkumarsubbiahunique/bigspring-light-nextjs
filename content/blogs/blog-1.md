@@ -1,8 +1,10 @@
 ---
-title: "What you need to know about Photography"
-description: "Heading example Here is example of hedings. You can use this heading by following markdownify rules."
+title: "A Framework for Enhanced Security: Continuous Threat Exposure Management (CTEM)"
+description: "If you're a cybersecurity professional, you're likely familiar with the sea of acronyms our industry is obsessed with. From CNAPP, to CWPP, to CIEM and all of the myriad others, there seems to be a new initialism born each day.
+
+In this article, we'll look at another trending acronym – CTEM, which stands for Continuous Threat Exposure Management – and the often-surprising challenges that come along with seeing a CTEM program through to maturity."
 image: "/images/blog-1.jpg"
-date: 2022-04-04T05:00:00Z
+date: 2024-02-21T05:00:00Z
 draft: false
 ---
 
