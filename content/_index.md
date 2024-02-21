@@ -1,7 +1,7 @@
 ---
 banner:
   title: Let us solve your critical business cyber risk challenges
-  content: Traditional security solutions are often complex, siloed, and reactive, leaving businesses vulnerable to ever-evolving threats. Let us help you achieve peace of mind with our powerful, integrated SaaS security suite.
+  content: Traditional security solutions are often complex, siloed, and reactive, leaving businesses vulnerable to ever-evolving threats. Let us help you achieve peace of mind with our powerful, integrated Continous Threat Exposure Management Suite.
   image: /images/banner-art.svg
   button:
     label: "Contact Us"
