@@ -4,16 +4,16 @@ layout: pricing
 draft: false
 plans:
 - title: Basic Plan
-  subtitle: Best For Small Individuals
-  price: 49
+  subtitle: Best For Small Startups
+  price: 999
   type: month
   features:
-    - Express Service
-    - Customs Clearance
-    - Time-Critical Services
+    - 10 Clients
+    - Shared SOC analyst
+    - 24/7 Proactive Monitoring
   button:
-    label: Get started for free
-    link: "/contact"
+    label: Subscribe
+    link: "https://buy.stripe.com/eVa6r2aXTdUt9JmeUY"
 
 - title: Professional Plan
   subtitle: Best For Professionals
@@ -40,7 +40,7 @@ plans:
     - Time-Critical Services
   button:
     label: Get started
-    link: "/contact"
+    link: "https://buy.stripe.com/fZe8za4zvaIh7Be147"
 
 call_to_action:
   title: Need a larger plan?
